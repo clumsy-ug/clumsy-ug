@@ -1,16 +1,32 @@
+## 🔍 Profile
+```json
+{
+  "name": "yg",
+  "location": {
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  "interests": [
+    "front-end",
+    "back-end",
+    "network",
+    "hardware"
+  ]
+}
+```
+
 ## Hi there 👋
+こんにちは！ygです。
 
-<!--
-**clumsyg/clumsyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+文系学部の学生(B4)です。
+フロントエンドが得意ですが、バックエンドやそれ以外にもいろいろ興味があります。
 
-Here are some ideas to get you started:
+## ⚔ Languages & Libraries & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vite,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsyg)](https://github.com/clumsyg/github-readme-stats)
+
+## 📉 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clumsyg&show_icons=true&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=clumsyg&theme=tokyonight)](https://github.com/clumsyg/github-profile-trophy)
