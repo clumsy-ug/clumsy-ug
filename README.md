@@ -22,7 +22,7 @@
 <br>
 
 ## ⚔ Languages & Libraries & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vite,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vite,git,github,pycharm)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsyg)](https://github.com/clumsyg/github-readme-stats)
 
