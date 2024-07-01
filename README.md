@@ -11,10 +11,10 @@
     "country": "Japan"
   },
   "interests": [
-    "front-end",
-    "back-end",
-    "network",
-    "hardware"
+    "Front-end",
+    "Back-end",
+    "Network",
+    "Hardware"
   ]
 }
 ```
