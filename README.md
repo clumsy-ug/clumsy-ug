@@ -5,7 +5,7 @@
 ## 🔍 Profile
 ```json
 {
-  "name": "yg",
+  "name": "Yug",
   "location": {
     "city": "Tokyo",
     "country": "Japan"
@@ -24,11 +24,11 @@
 ## ⚔ Languages & Libraries & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,vite,git,github,pycharm)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsyg)](https://github.com/clumsyg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy-ug)](https://github.com/clumsy-ug/github-readme-stats)
 
 <br>
 
 ## 📉 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clumsyg&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clumsy-ug&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=clumsyg&theme=tokyonight)](https://github.com/clumsyg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=clumsy-ug&theme=tokyonight)](https://github.com/clumsy-ug/github-profile-trophy)
