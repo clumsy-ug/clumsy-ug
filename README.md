@@ -31,6 +31,7 @@
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.co.jp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
 <a href="https://www.jetbrains.com/ja-jp/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy-ug)](https://github.com/clumsy-ug/github-readme-stats)
