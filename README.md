@@ -23,12 +23,17 @@
 
 ## ⚔ Languages & Libraries & Tools
 
+### Front
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <a href="https://ja.react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+
+### Back
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+
+### Other
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.co.jp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
