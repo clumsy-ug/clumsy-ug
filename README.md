@@ -32,6 +32,8 @@
 
 ### Back
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+<a href="https://docs.python.org/ja/3/library/sqlite3.html"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
 
 ### Other
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
