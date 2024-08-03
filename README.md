@@ -21,7 +21,7 @@
 
 <br>
 
-## ⚔ Languages & Libraries & Tools
+## ⚔ Technology Stacks
 
 ### Front-end
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
