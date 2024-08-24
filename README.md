@@ -30,7 +30,6 @@
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://ja.react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
-<a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
 
 ### Back-end
