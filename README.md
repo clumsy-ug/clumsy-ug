@@ -36,10 +36,12 @@
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
 <a href="https://docs.python.org/ja/3/library/sqlite3.html"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
 ### Other
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.co.jp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy-ug)](https://github.com/clumsy-ug/github-readme-stats)
