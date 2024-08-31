@@ -38,7 +38,7 @@
 <a href="https://docs.python.org/ja/3/library/sqlite3.html"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
 <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
-### Other
+### Others
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://github.co.jp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
