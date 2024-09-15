@@ -33,9 +33,6 @@
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
 
 ### Back-end
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-<a href="https://docs.python.org/ja/3/library/sqlite3.html"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
 <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
 ### Others
