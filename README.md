@@ -14,6 +14,7 @@
     "Front-end",
     "Back-end",
     "Network",
+    "Infrastructure",
     "Hardware"
   ]
 }
