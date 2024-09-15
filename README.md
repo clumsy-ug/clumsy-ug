@@ -13,8 +13,8 @@
   "interests": [
     "Front-end",
     "Back-end",
-    "Network",
     "Infrastructure",
+    "Network",
     "Hardware"
   ]
 }
