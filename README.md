@@ -47,5 +47,5 @@
 <br>
 
 ## 📉 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clumsy-ug&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clumsy-ug&show_icons=true&theme=shadow_blue)
 
