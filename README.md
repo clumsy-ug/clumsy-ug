@@ -2,26 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=0E00FF&background=FFFFFF&center=true&vCenter=true&random=false&width=1050&height=150&lines=I'M+A+COLLEGE+STUDENT;I'M+A+WEB+DEVELOPER)](https://git.io/typing-svg)
 
-## 🔍 Profile
-```json
-{
-  "name": "Yug",
-  "location": {
-    "city": "Tokyo",
-    "country": "Japan"
-  },
-  "interests": [
-    "Front-end",
-    "Back-end",
-    "Infrastructure",
-    "Network",
-    "Hardware"
-  ]
-}
-```
-
-<br>
-
 ## ⚔ Technology Stacks
 
 ### Front-end
