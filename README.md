@@ -7,12 +7,6 @@
 ### Back-end
 <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
-### Others
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://github.co.jp"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
-
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsy-ug)](https://github.com/clumsy-ug/github-readme-stats)
