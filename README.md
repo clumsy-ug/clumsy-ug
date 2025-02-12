@@ -1,6 +1,4 @@
 ### Front
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 
 ### Back
